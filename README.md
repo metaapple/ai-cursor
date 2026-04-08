@@ -1,4 +1,17 @@
 # 국민은행 가계부 (Demo)
+<img width="1782" height="1655" alt="253" src="https://github.com/user-attachments/assets/e668613c-de43-4759-b942-e0a9ee1c774b" />
+<img width="1782" height="1655" alt="254" src="https://github.com/user-attachments/assets/3cf300f3-3fb8-438a-a7a4-0cf62e1da804" />
+<img width="1782" height="1655" alt="255" src="https://github.com/user-attachments/assets/29651a9a-b294-4f5a-b482-e71442ee8954" />
+<img width="1782" height="1655" alt="256" src="https://github.com/user-attachments/assets/10beee12-6175-48e8-be0c-7234fefeec9b" />
+<img width="1782" height="1655" alt="257" src="https://github.com/user-attachments/assets/8f0bf15c-c958-4c37-a8d4-90193365598d" />
+<img width="1782" height="1655" alt="258" src="https://github.com/user-attachments/assets/07639576-a7b4-4af5-821a-8f762e246de6" />
+
+
+
+<img width="201" height="230" alt="251" src="https://github.com/user-attachments/assets/18bcae02-a6c0-469b-ba89-64706ed4d828" />
+<img width="478" height="525" alt="252" src="https://github.com/user-attachments/assets/f1879e68-a247-44c9-b153-b62ee9f51d34" />
+<img width="1966" height="1472" alt="250" src="https://github.com/user-attachments/assets/32765462-5329-4401-b2f2-ba2c60005ce7" />
+
 
 Vue 3 + Composition API + Vue Router + Bootstrap 기반의 **가계부 데모 SPA**입니다.  
 기본 테마 색상은 **오렌지**이며, 제출/전환 시 **로딩 스피너 오버레이**가 표시됩니다.
@@ -114,4 +127,28 @@ npm run api
   - 먼저 프론트가 실행 중인지(`npm run dev`) 확인하세요.
 - 기본 API 주소가 다르면
   - `VITE_API_BASE` 환경변수로 조정할 수 있습니다.
+
+## 깃연결
+<img width="745" height="640" alt="232" src="https://github.com/user-attachments/assets/6b9bd3fd-0535-4588-abc7-207b1508acaf" />
+<img width="1228" height="778" alt="233" src="https://github.com/user-attachments/assets/af17d4be-c5e2-473d-889a-681dca0ff740" />
+<img width="1989" height="150" alt="234" src="https://github.com/user-attachments/assets/8fc7b309-9820-483b-8304-c9622ca1f6ab" />
+<img width="1147" height="698" alt="235" src="https://github.com/user-attachments/assets/b7f73d5e-a9b2-4d7f-a604-96bb02cc5ef3" />
+<img width="1049" height="304" alt="236" src="https://github.com/user-attachments/assets/c7a50f67-7da3-4177-82b1-f92814c96bfe" />
+<img width="866" height="690" alt="237" src="https://github.com/user-attachments/assets/a8997cce-68d0-458f-9baf-e2c56fec2bfb" />
+<img width="648" height="950" alt="238" src="https://github.com/user-attachments/assets/307f975c-332b-44b7-be41-373d228f7a3b" />
+<img width="2088" height="1491" alt="239" src="https://github.com/user-attachments/assets/47e3a819-b508-4fae-94a9-02fab197383e" />
+<img width="287" height="92" alt="240" src="https://github.com/user-attachments/assets/58305f53-bea2-46f5-be13-5b840c030dc7" />
+<img width="1427" height="123" alt="241" src="https://github.com/user-attachments/assets/02b39999-3812-404c-a5b0-3044cc0c65bb" />
+<img width="2017" height="157" alt="242" src="https://github.com/user-attachments/assets/f8abd78f-321e-4062-815a-87a6493f9b74" />
+<img width="1979" height="839" alt="243" src="https://github.com/user-attachments/assets/67492878-a452-44aa-aeb7-2aaf3f8374a7" />
+<img width="3804" height="1649" alt="244" src="https://github.com/user-attachments/assets/2e5bad81-6c2f-455a-982a-c26196fdb203" />
+<img width="1077" height="129" alt="247" src="https://github.com/user-attachments/assets/42a23075-b24c-49da-9af0-e88887c818ac" />
+<img width="1085" height="1148" alt="248" src="https://github.com/user-attachments/assets/e79f5b23-b510-4ead-a18d-6faf9bae93c4" />
+<img width="1032" height="271" alt="249" src="https://github.com/user-attachments/assets/a3e66ee7-c3dc-4583-a1bc-eeda7fba7a9c" />
+
+
+
+
+
+
 
