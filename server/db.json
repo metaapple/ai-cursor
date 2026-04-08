@@ -1,0 +1,2713 @@
+{
+  "members": [
+    {
+      "id": 1,
+      "name": "김민준",
+      "email": "user001@kb-demo.com",
+      "password": "Password!001",
+      "createdAt": "2026-04-01T09:00:00.000Z"
+    },
+    {
+      "id": 2,
+      "name": "이서연",
+      "email": "user002@kb-demo.com",
+      "password": "Password!002",
+      "createdAt": "2026-04-01T09:01:00.000Z"
+    },
+    {
+      "id": 3,
+      "name": "박서준",
+      "email": "user003@kb-demo.com",
+      "password": "Password!003",
+      "createdAt": "2026-04-01T09:02:00.000Z"
+    },
+    {
+      "id": 4,
+      "name": "최지우",
+      "email": "user004@kb-demo.com",
+      "password": "Password!004",
+      "createdAt": "2026-04-01T09:03:00.000Z"
+    },
+    {
+      "id": 5,
+      "name": "정도윤",
+      "email": "user005@kb-demo.com",
+      "password": "Password!005",
+      "createdAt": "2026-04-01T09:04:00.000Z"
+    },
+    {
+      "id": 6,
+      "name": "한지민",
+      "email": "user006@kb-demo.com",
+      "password": "Password!006",
+      "createdAt": "2026-04-01T09:05:00.000Z"
+    },
+    {
+      "id": 7,
+      "name": "장우진",
+      "email": "user007@kb-demo.com",
+      "password": "Password!007",
+      "createdAt": "2026-04-01T09:06:00.000Z"
+    },
+    {
+      "id": 8,
+      "name": "윤아",
+      "email": "user008@kb-demo.com",
+      "password": "Password!008",
+      "createdAt": "2026-04-01T09:07:00.000Z"
+    },
+    {
+      "id": 9,
+      "name": "임재현",
+      "email": "user009@kb-demo.com",
+      "password": "Password!009",
+      "createdAt": "2026-04-01T09:08:00.000Z"
+    },
+    {
+      "id": 10,
+      "name": "서지윤",
+      "email": "user010@kb-demo.com",
+      "password": "Password!010",
+      "createdAt": "2026-04-01T09:09:00.000Z"
+    },
+    {
+      "id": 11,
+      "name": "오세훈",
+      "email": "user011@kb-demo.com",
+      "password": "Password!011",
+      "createdAt": "2026-04-01T09:10:00.000Z"
+    },
+    {
+      "id": 12,
+      "name": "강하늘",
+      "email": "user012@kb-demo.com",
+      "password": "Password!012",
+      "createdAt": "2026-04-01T09:11:00.000Z"
+    },
+    {
+      "id": 13,
+      "name": "유지호",
+      "email": "user013@kb-demo.com",
+      "password": "Password!013",
+      "createdAt": "2026-04-01T09:12:00.000Z"
+    },
+    {
+      "id": 14,
+      "name": "문가영",
+      "email": "user014@kb-demo.com",
+      "password": "Password!014",
+      "createdAt": "2026-04-01T09:13:00.000Z"
+    },
+    {
+      "id": 15,
+      "name": "신예은",
+      "email": "user015@kb-demo.com",
+      "password": "Password!015",
+      "createdAt": "2026-04-01T09:14:00.000Z"
+    },
+    {
+      "id": 16,
+      "name": "배수지",
+      "email": "user016@kb-demo.com",
+      "password": "Password!016",
+      "createdAt": "2026-04-01T09:15:00.000Z"
+    },
+    {
+      "id": 17,
+      "name": "송강",
+      "email": "user017@kb-demo.com",
+      "password": "Password!017",
+      "createdAt": "2026-04-01T09:16:00.000Z"
+    },
+    {
+      "id": 18,
+      "name": "김유정",
+      "email": "user018@kb-demo.com",
+      "password": "Password!018",
+      "createdAt": "2026-04-01T09:17:00.000Z"
+    },
+    {
+      "id": 19,
+      "name": "이도현",
+      "email": "user019@kb-demo.com",
+      "password": "Password!019",
+      "createdAt": "2026-04-01T09:18:00.000Z"
+    },
+    {
+      "id": 20,
+      "name": "한소희",
+      "email": "user020@kb-demo.com",
+      "password": "Password!020",
+      "createdAt": "2026-04-01T09:19:00.000Z"
+    },
+    {
+      "id": 21,
+      "name": "김태리",
+      "email": "user021@kb-demo.com",
+      "password": "Password!021",
+      "createdAt": "2026-04-01T09:20:00.000Z"
+    },
+    {
+      "id": 22,
+      "name": "박보검",
+      "email": "user022@kb-demo.com",
+      "password": "Password!022",
+      "createdAt": "2026-04-01T09:21:00.000Z"
+    },
+    {
+      "id": 23,
+      "name": "전여빈",
+      "email": "user023@kb-demo.com",
+      "password": "Password!023",
+      "createdAt": "2026-04-01T09:22:00.000Z"
+    },
+    {
+      "id": 24,
+      "name": "안재홍",
+      "email": "user024@kb-demo.com",
+      "password": "Password!024",
+      "createdAt": "2026-04-01T09:23:00.000Z"
+    },
+    {
+      "id": 25,
+      "name": "김고은",
+      "email": "user025@kb-demo.com",
+      "password": "Password!025",
+      "createdAt": "2026-04-01T09:24:00.000Z"
+    },
+    {
+      "id": 26,
+      "name": "이제훈",
+      "email": "user026@kb-demo.com",
+      "password": "Password!026",
+      "createdAt": "2026-04-01T09:25:00.000Z"
+    },
+    {
+      "id": 27,
+      "name": "박소담",
+      "email": "user027@kb-demo.com",
+      "password": "Password!027",
+      "createdAt": "2026-04-01T09:26:00.000Z"
+    },
+    {
+      "id": 28,
+      "name": "조정석",
+      "email": "user028@kb-demo.com",
+      "password": "Password!028",
+      "createdAt": "2026-04-01T09:27:00.000Z"
+    },
+    {
+      "id": 29,
+      "name": "김선호",
+      "email": "user029@kb-demo.com",
+      "password": "Password!029",
+      "createdAt": "2026-04-01T09:28:00.000Z"
+    },
+    {
+      "id": 30,
+      "name": "정유미",
+      "email": "user030@kb-demo.com",
+      "password": "Password!030",
+      "createdAt": "2026-04-01T09:29:00.000Z"
+    },
+    {
+      "id": 31,
+      "name": "유아인",
+      "email": "user031@kb-demo.com",
+      "password": "Password!031",
+      "createdAt": "2026-04-01T09:30:00.000Z"
+    },
+    {
+      "id": 32,
+      "name": "김혜수",
+      "email": "user032@kb-demo.com",
+      "password": "Password!032",
+      "createdAt": "2026-04-01T09:31:00.000Z"
+    },
+    {
+      "id": 33,
+      "name": "하정우",
+      "email": "user033@kb-demo.com",
+      "password": "Password!033",
+      "createdAt": "2026-04-01T09:32:00.000Z"
+    },
+    {
+      "id": 34,
+      "name": "공유",
+      "email": "user034@kb-demo.com",
+      "password": "Password!034",
+      "createdAt": "2026-04-01T09:33:00.000Z"
+    },
+    {
+      "id": 35,
+      "name": "손예진",
+      "email": "user035@kb-demo.com",
+      "password": "Password!035",
+      "createdAt": "2026-04-01T09:34:00.000Z"
+    },
+    {
+      "id": 36,
+      "name": "현빈",
+      "email": "user036@kb-demo.com",
+      "password": "Password!036",
+      "createdAt": "2026-04-01T09:35:00.000Z"
+    },
+    {
+      "id": 37,
+      "name": "마동석",
+      "email": "user037@kb-demo.com",
+      "password": "Password!037",
+      "createdAt": "2026-04-01T09:36:00.000Z"
+    },
+    {
+      "id": 38,
+      "name": "김지원",
+      "email": "user038@kb-demo.com",
+      "password": "Password!038",
+      "createdAt": "2026-04-01T09:37:00.000Z"
+    },
+    {
+      "id": 39,
+      "name": "이성경",
+      "email": "user039@kb-demo.com",
+      "password": "Password!039",
+      "createdAt": "2026-04-01T09:38:00.000Z"
+    },
+    {
+      "id": 40,
+      "name": "차은우",
+      "email": "user040@kb-demo.com",
+      "password": "Password!040",
+      "createdAt": "2026-04-01T09:39:00.000Z"
+    },
+    {
+      "id": 41,
+      "name": "김다미",
+      "email": "user041@kb-demo.com",
+      "password": "Password!041",
+      "createdAt": "2026-04-01T09:40:00.000Z"
+    },
+    {
+      "id": 42,
+      "name": "이준기",
+      "email": "user042@kb-demo.com",
+      "password": "Password!042",
+      "createdAt": "2026-04-01T09:41:00.000Z"
+    },
+    {
+      "id": 43,
+      "name": "김소현",
+      "email": "user043@kb-demo.com",
+      "password": "Password!043",
+      "createdAt": "2026-04-01T09:42:00.000Z"
+    },
+    {
+      "id": 44,
+      "name": "이종석",
+      "email": "user044@kb-demo.com",
+      "password": "Password!044",
+      "createdAt": "2026-04-01T09:43:00.000Z"
+    },
+    {
+      "id": 45,
+      "name": "김우빈",
+      "email": "user045@kb-demo.com",
+      "password": "Password!045",
+      "createdAt": "2026-04-01T09:44:00.000Z"
+    },
+    {
+      "id": 46,
+      "name": "박서담",
+      "email": "user046@kb-demo.com",
+      "password": "Password!046",
+      "createdAt": "2026-04-01T09:45:00.000Z"
+    },
+    {
+      "id": 47,
+      "name": "서강준",
+      "email": "user047@kb-demo.com",
+      "password": "Password!047",
+      "createdAt": "2026-04-01T09:46:00.000Z"
+    },
+    {
+      "id": 48,
+      "name": "김하늘",
+      "email": "user048@kb-demo.com",
+      "password": "Password!048",
+      "createdAt": "2026-04-01T09:47:00.000Z"
+    },
+    {
+      "id": 49,
+      "name": "문채원",
+      "email": "user049@kb-demo.com",
+      "password": "Password!049",
+      "createdAt": "2026-04-01T09:48:00.000Z"
+    },
+    {
+      "id": 50,
+      "name": "박민영",
+      "email": "user050@kb-demo.com",
+      "password": "Password!050",
+      "createdAt": "2026-04-01T09:49:00.000Z"
+    },
+    {
+      "id": 51,
+      "name": "장나라",
+      "email": "user051@kb-demo.com",
+      "password": "Password!051",
+      "createdAt": "2026-04-01T09:50:00.000Z"
+    },
+    {
+      "id": 52,
+      "name": "김남길",
+      "email": "user052@kb-demo.com",
+      "password": "Password!052",
+      "createdAt": "2026-04-01T09:51:00.000Z"
+    },
+    {
+      "id": 53,
+      "name": "김희애",
+      "email": "user053@kb-demo.com",
+      "password": "Password!053",
+      "createdAt": "2026-04-01T09:52:00.000Z"
+    },
+    {
+      "id": 54,
+      "name": "유연석",
+      "email": "user054@kb-demo.com",
+      "password": "Password!054",
+      "createdAt": "2026-04-01T09:53:00.000Z"
+    },
+    {
+      "id": 55,
+      "name": "전지현",
+      "email": "user055@kb-demo.com",
+      "password": "Password!055",
+      "createdAt": "2026-04-01T09:54:00.000Z"
+    },
+    {
+      "id": 56,
+      "name": "이병헌",
+      "email": "user056@kb-demo.com",
+      "password": "Password!056",
+      "createdAt": "2026-04-01T09:55:00.000Z"
+    },
+    {
+      "id": 57,
+      "name": "김수현",
+      "email": "user057@kb-demo.com",
+      "password": "Password!057",
+      "createdAt": "2026-04-01T09:56:00.000Z"
+    },
+    {
+      "id": 58,
+      "name": "수지",
+      "email": "user058@kb-demo.com",
+      "password": "Password!058",
+      "createdAt": "2026-04-01T09:57:00.000Z"
+    },
+    {
+      "id": 59,
+      "name": "이동욱",
+      "email": "user059@kb-demo.com",
+      "password": "Password!059",
+      "createdAt": "2026-04-01T09:58:00.000Z"
+    },
+    {
+      "id": 60,
+      "name": "공효진",
+      "email": "user060@kb-demo.com",
+      "password": "Password!060",
+      "createdAt": "2026-04-01T09:59:00.000Z"
+    },
+    {
+      "id": 61,
+      "name": "김태희",
+      "email": "user061@kb-demo.com",
+      "password": "Password!061",
+      "createdAt": "2026-04-01T10:00:00.000Z"
+    },
+    {
+      "id": 62,
+      "name": "정해인",
+      "email": "user062@kb-demo.com",
+      "password": "Password!062",
+      "createdAt": "2026-04-01T10:01:00.000Z"
+    },
+    {
+      "id": 63,
+      "name": "박형식",
+      "email": "user063@kb-demo.com",
+      "password": "Password!063",
+      "createdAt": "2026-04-01T10:02:00.000Z"
+    },
+    {
+      "id": 64,
+      "name": "강소라",
+      "email": "user064@kb-demo.com",
+      "password": "Password!064",
+      "createdAt": "2026-04-01T10:03:00.000Z"
+    },
+    {
+      "id": 65,
+      "name": "서현진",
+      "email": "user065@kb-demo.com",
+      "password": "Password!065",
+      "createdAt": "2026-04-01T10:04:00.000Z"
+    },
+    {
+      "id": 66,
+      "name": "박신혜",
+      "email": "user066@kb-demo.com",
+      "password": "Password!066",
+      "createdAt": "2026-04-01T10:05:00.000Z"
+    },
+    {
+      "id": 67,
+      "name": "이민호",
+      "email": "user067@kb-demo.com",
+      "password": "Password!067",
+      "createdAt": "2026-04-01T10:06:00.000Z"
+    },
+    {
+      "id": 68,
+      "name": "송혜교",
+      "email": "user068@kb-demo.com",
+      "password": "Password!068",
+      "createdAt": "2026-04-01T10:07:00.000Z"
+    },
+    {
+      "id": 69,
+      "name": "박해진",
+      "email": "user069@kb-demo.com",
+      "password": "Password!069",
+      "createdAt": "2026-04-01T10:08:00.000Z"
+    },
+    {
+      "id": 70,
+      "name": "이보영",
+      "email": "user070@kb-demo.com",
+      "password": "Password!070",
+      "createdAt": "2026-04-01T10:09:00.000Z"
+    },
+    {
+      "id": 71,
+      "name": "김예림",
+      "email": "user071@kb-demo.com",
+      "password": "Password!071",
+      "createdAt": "2026-04-01T10:10:00.000Z"
+    },
+    {
+      "id": 72,
+      "name": "남주혁",
+      "email": "user072@kb-demo.com",
+      "password": "Password!072",
+      "createdAt": "2026-04-01T10:11:00.000Z"
+    },
+    {
+      "id": 73,
+      "name": "한예슬",
+      "email": "user073@kb-demo.com",
+      "password": "Password!073",
+      "createdAt": "2026-04-01T10:12:00.000Z"
+    },
+    {
+      "id": 74,
+      "name": "주지훈",
+      "email": "user074@kb-demo.com",
+      "password": "Password!074",
+      "createdAt": "2026-04-01T10:13:00.000Z"
+    },
+    {
+      "id": 75,
+      "name": "김윤석",
+      "email": "user075@kb-demo.com",
+      "password": "Password!075",
+      "createdAt": "2026-04-01T10:14:00.000Z"
+    },
+    {
+      "id": 76,
+      "name": "손석구",
+      "email": "user076@kb-demo.com",
+      "password": "Password!076",
+      "createdAt": "2026-04-01T10:15:00.000Z"
+    },
+    {
+      "id": 77,
+      "name": "김향기",
+      "email": "user077@kb-demo.com",
+      "password": "Password!077",
+      "createdAt": "2026-04-01T10:16:00.000Z"
+    },
+    {
+      "id": 78,
+      "name": "박은빈",
+      "email": "user078@kb-demo.com",
+      "password": "Password!078",
+      "createdAt": "2026-04-01T10:17:00.000Z"
+    },
+    {
+      "id": 79,
+      "name": "윤여정",
+      "email": "user079@kb-demo.com",
+      "password": "Password!079",
+      "createdAt": "2026-04-01T10:18:00.000Z"
+    },
+    {
+      "id": 80,
+      "name": "김영광",
+      "email": "user080@kb-demo.com",
+      "password": "Password!080",
+      "createdAt": "2026-04-01T10:19:00.000Z"
+    },
+    {
+      "id": 81,
+      "name": "정우성",
+      "email": "user081@kb-demo.com",
+      "password": "Password!081",
+      "createdAt": "2026-04-01T10:20:00.000Z"
+    },
+    {
+      "id": 82,
+      "name": "이정재",
+      "email": "user082@kb-demo.com",
+      "password": "Password!082",
+      "createdAt": "2026-04-01T10:21:00.000Z"
+    },
+    {
+      "id": 83,
+      "name": "김아중",
+      "email": "user083@kb-demo.com",
+      "password": "Password!083",
+      "createdAt": "2026-04-01T10:22:00.000Z"
+    },
+    {
+      "id": 84,
+      "name": "이하늬",
+      "email": "user084@kb-demo.com",
+      "password": "Password!084",
+      "createdAt": "2026-04-01T10:23:00.000Z"
+    },
+    {
+      "id": 85,
+      "name": "김재욱",
+      "email": "user085@kb-demo.com",
+      "password": "Password!085",
+      "createdAt": "2026-04-01T10:24:00.000Z"
+    },
+    {
+      "id": 86,
+      "name": "전소민",
+      "email": "user086@kb-demo.com",
+      "password": "Password!086",
+      "createdAt": "2026-04-01T10:25:00.000Z"
+    },
+    {
+      "id": 87,
+      "name": "권나라",
+      "email": "user087@kb-demo.com",
+      "password": "Password!087",
+      "createdAt": "2026-04-01T10:26:00.000Z"
+    },
+    {
+      "id": 88,
+      "name": "박정민",
+      "email": "user088@kb-demo.com",
+      "password": "Password!088",
+      "createdAt": "2026-04-01T10:27:00.000Z"
+    },
+    {
+      "id": 89,
+      "name": "김도현",
+      "email": "user089@kb-demo.com",
+      "password": "Password!089",
+      "createdAt": "2026-04-01T10:28:00.000Z"
+    },
+    {
+      "id": 90,
+      "name": "배두나",
+      "email": "user090@kb-demo.com",
+      "password": "Password!090",
+      "createdAt": "2026-04-01T10:29:00.000Z"
+    },
+    {
+      "id": 91,
+      "name": "류준열",
+      "email": "user091@kb-demo.com",
+      "password": "Password!091",
+      "createdAt": "2026-04-01T10:30:00.000Z"
+    },
+    {
+      "id": 92,
+      "name": "김유미",
+      "email": "user092@kb-demo.com",
+      "password": "Password!092",
+      "createdAt": "2026-04-01T10:31:00.000Z"
+    },
+    {
+      "id": 93,
+      "name": "정소민",
+      "email": "user093@kb-demo.com",
+      "password": "Password!093",
+      "createdAt": "2026-04-01T10:32:00.000Z"
+    },
+    {
+      "id": 94,
+      "name": "이보라",
+      "email": "user094@kb-demo.com",
+      "password": "Password!094",
+      "createdAt": "2026-04-01T10:33:00.000Z"
+    },
+    {
+      "id": 95,
+      "name": "박진영",
+      "email": "user095@kb-demo.com",
+      "password": "Password!095",
+      "createdAt": "2026-04-01T10:34:00.000Z"
+    },
+    {
+      "id": 96,
+      "name": "김민지",
+      "email": "user096@kb-demo.com",
+      "password": "Password!096",
+      "createdAt": "2026-04-01T10:35:00.000Z"
+    },
+    {
+      "id": 97,
+      "name": "최우식",
+      "email": "user097@kb-demo.com",
+      "password": "Password!097",
+      "createdAt": "2026-04-01T10:36:00.000Z"
+    },
+    {
+      "id": 98,
+      "name": "김사랑",
+      "email": "user098@kb-demo.com",
+      "password": "Password!098",
+      "createdAt": "2026-04-01T10:37:00.000Z"
+    },
+    {
+      "id": 99,
+      "name": "정우",
+      "email": "user099@kb-demo.com",
+      "password": "Password!099",
+      "createdAt": "2026-04-01T10:38:00.000Z"
+    },
+    {
+      "id": 100,
+      "name": "이수진",
+      "email": "user100@kb-demo.com",
+      "password": "Password!100",
+      "createdAt": "2026-04-01T10:39:00.000Z"
+    },
+    {
+      "name": "임정원",
+      "email": "aliciawill@naver.com",
+      "password": "11111111",
+      "createdAt": "2026-04-08T07:02:38.982Z",
+      "id": 101
+    }
+  ],
+  "ledgerEntries": [
+    {
+      "id": 1001,
+      "memberId": 1,
+      "type": "income",
+      "amount": 2510000,
+      "category": "월급",
+      "note": "급여",
+      "date": "2026-04-01",
+      "createdAt": "2026-04-01T12:00:00.000Z"
+    },
+    {
+      "id": 1002,
+      "memberId": 1,
+      "type": "expense",
+      "amount": 5123,
+      "category": "카페",
+      "note": "커피",
+      "date": "2026-04-02",
+      "createdAt": "2026-04-02T12:00:00.000Z"
+    },
+    {
+      "id": 2001,
+      "memberId": 2,
+      "type": "income",
+      "amount": 2520000,
+      "category": "월급",
+      "note": "급여",
+      "date": "2026-04-01",
+      "createdAt": "2026-04-01T12:00:00.000Z"
+    },
+    {
+      "id": 2002,
+      "memberId": 2,
+      "type": "expense",
+      "amount": 5246,
+      "category": "식비",
+      "note": "식사",
+      "date": "2026-04-02",
+      "createdAt": "2026-04-02T12:00:00.000Z"
+    },
+    {
+      "id": 3001,
+      "memberId": 3,
+      "type": "income",
+      "amount": 2530000,
+      "category": "월급",
+      "note": "급여",
+      "date": "2026-04-01",
+      "createdAt": "2026-04-01T12:00:00.000Z"
+    },
+    {
+      "id": 3002,
+      "memberId": 3,
+      "type": "expense",
+      "amount": 5369,
+      "category": "교통",
+      "note": "대중교통",
+      "date": "2026-04-02",
+      "createdAt": "2026-04-02T12:00:00.000Z"
+    },
+    {
+      "id": 4001,
+      "memberId": 4,
+      "type": "income",
+      "amount": 2540000,
+      "category": "월급",
+      "note": "급여",
+      "date": "2026-04-01",
+      "createdAt": "2026-04-01T12:00:00.000Z"
+    },
+    {
+      "id": 4002,
+      "memberId": 4,
+      "type": "expense",
+      "amount": 5492,
+      "category": "통신",
+      "note": "요금",
+      "date": "2026-04-02",
+      "createdAt": "2026-04-02T12:00:00.000Z"
+    },
+    {
+      "id": 5001,
+      "memberId": 5,
+      "type": "income",
+      "amount": 2550000,
+      "category": "월급",
+      "note": "급여",
+      "date": "2026-04-01",
+      "createdAt": "2026-04-01T12:00:00.000Z"
+    },
+    {
+      "id": 5002,
+      "memberId": 5,
+      "type": "expense",
+      "amount": 5615,
+      "category": "쇼핑",
+      "note": "생활용품",
+      "date": "2026-04-02",
+      "createdAt": "2026-04-02T12:00:00.000Z"
+    },
+    {
+      "id": 6001,
+      "memberId": 6,
+      "type": "income",
+      "amount": 2560000,
+      "category": "월급",
+      "note": "급여",
+      "date": "2026-04-01",
+      "createdAt": "2026-04-01T12:00:00.000Z"
+    },
+    {
+      "id": 6002,
+      "memberId": 6,
+      "type": "expense",
+      "amount": 5738,
+      "category": "생활",
+      "note": "생필품",
+      "date": "2026-04-02",
+      "createdAt": "2026-04-02T12:00:00.000Z"
+    },
+    {
+      "id": 7001,
+      "memberId": 7,
+      "type": "income",
+      "amount": 2570000,
+      "category": "월급",
+      "note": "급여",
+      "date": "2026-04-01",
+      "createdAt": "2026-04-01T12:00:00.000Z"
+    },
+    {
+      "id": 7002,
+      "memberId": 7,
+      "type": "expense",
+      "amount": 5861,
+      "category": "주거",
+      "note": "관리비",
+      "date": "2026-04-02",
+      "createdAt": "2026-04-02T12:00:00.000Z"
+    },
+    {
+      "id": 8001,
+      "memberId": 8,
+      "type": "income",
+      "amount": 2580000,
+      "category": "월급",
+      "note": "급여",
+      "date": "2026-04-01",
+      "createdAt": "2026-04-01T12:00:00.000Z"
+    },
+    {
+      "id": 8002,
+      "memberId": 8,
+      "type": "expense",
+      "amount": 5984,
+      "category": "카페",
+      "note": "커피",
+      "date": "2026-04-02",
+      "createdAt": "2026-04-02T12:00:00.000Z"
+    },
+    {
+      "id": 9001,
+      "memberId": 9,
+      "type": "income",
+      "amount": 2590000,
+      "category": "월급",
+      "note": "급여",
+      "date": "2026-04-01",
+      "createdAt": "2026-04-01T12:00:00.000Z"
+    },
+    {
+      "id": 9002,
+      "memberId": 9,
+      "type": "expense",
+      "amount": 6107,
+      "category": "식비",
+      "note": "식사",
+      "date": "2026-04-02",
+      "createdAt": "2026-04-02T12:00:00.000Z"
+    },
+    {
+      "id": 10001,
+      "memberId": 10,
+      "type": "income",
+      "amount": 2600000,
+      "category": "월급",
+      "note": "급여",
+      "date": "2026-04-01",
+      "createdAt": "2026-04-01T12:00:00.000Z"
+    },
+    {
+      "id": 10002,
+      "memberId": 10,
+      "type": "expense",
+      "amount": 6230,
+      "category": "교통",
+      "note": "대중교통",
+      "date": "2026-04-02",
+      "createdAt": "2026-04-02T12:00:00.000Z"
+    },
+    {
+      "id": 11001,
+      "memberId": 11,
+      "type": "income",
+      "amount": 2610000,
+      "category": "월급",
+      "note": "급여",
+      "date": "2026-04-01",
+      "createdAt": "2026-04-01T12:00:00.000Z"
+    },
+    {
+      "id": 11002,
+      "memberId": 11,
+      "type": "expense",
+      "amount": 6353,
+      "category": "통신",
+      "note": "요금",
+      "date": "2026-04-02",
+      "createdAt": "2026-04-02T12:00:00.000Z"
+    },
+    {
+      "id": 12001,
+      "memberId": 12,
+      "type": "income",
+      "amount": 2620000,
+      "category": "월급",
+      "note": "급여",
+      "date": "2026-04-01",
+      "createdAt": "2026-04-01T12:00:00.000Z"
+    },
+    {
+      "id": 12002,
+      "memberId": 12,
+      "type": "expense",
+      "amount": 6476,
+      "category": "쇼핑",
+      "note": "생활용품",
+      "date": "2026-04-02",
+      "createdAt": "2026-04-02T12:00:00.000Z"
+    },
+    {
+      "id": 13001,
+      "memberId": 13,
+      "type": "income",
+      "amount": 2630000,
+      "category": "월급",
+      "note": "급여",
+      "date": "2026-04-01",
+      "createdAt": "2026-04-01T12:00:00.000Z"
+    },
+    {
+      "id": 13002,
+      "memberId": 13,
+      "type": "expense",
+      "amount": 6599,
+      "category": "생활",
+      "note": "생필품",
+      "date": "2026-04-02",
+      "createdAt": "2026-04-02T12:00:00.000Z"
+    },
+    {
+      "id": 14001,
+      "memberId": 14,
+      "type": "income",
+      "amount": 2640000,
+      "category": "월급",
+      "note": "급여",
+      "date": "2026-04-01",
+      "createdAt": "2026-04-01T12:00:00.000Z"
+    },
+    {
+      "id": 14002,
+      "memberId": 14,
+      "type": "expense",
+      "amount": 6722,
+      "category": "주거",
+      "note": "관리비",
+      "date": "2026-04-02",
+      "createdAt": "2026-04-02T12:00:00.000Z"
+    },
+    {
+      "id": 15001,
+      "memberId": 15,
+      "type": "income",
+      "amount": 2650000,
+      "category": "월급",
+      "note": "급여",
+      "date": "2026-04-01",
+      "createdAt": "2026-04-01T12:00:00.000Z"
+    },
+    {
+      "id": 15002,
+      "memberId": 15,
+      "type": "expense",
+      "amount": 6845,
+      "category": "카페",
+      "note": "커피",
+      "date": "2026-04-02",
+      "createdAt": "2026-04-02T12:00:00.000Z"
+    },
+    {
+      "id": 16001,
+      "memberId": 16,
+      "type": "income",
+      "amount": 2660000,
+      "category": "월급",
+      "note": "급여",
+      "date": "2026-04-01",
+      "createdAt": "2026-04-01T12:00:00.000Z"
+    },
+    {
+      "id": 16002,
+      "memberId": 16,
+      "type": "expense",
+      "amount": 6968,
+      "category": "식비",
+      "note": "식사",
+      "date": "2026-04-02",
+      "createdAt": "2026-04-02T12:00:00.000Z"
+    },
+    {
+      "id": 17001,
+      "memberId": 17,
+      "type": "income",
+      "amount": 2670000,
+      "category": "월급",
+      "note": "급여",
+      "date": "2026-04-01",
+      "createdAt": "2026-04-01T12:00:00.000Z"
+    },
+    {
+      "id": 17002,
+      "memberId": 17,
+      "type": "expense",
+      "amount": 7091,
+      "category": "교통",
+      "note": "대중교통",
+      "date": "2026-04-02",
+      "createdAt": "2026-04-02T12:00:00.000Z"
+    },
+    {
+      "id": 18001,
+      "memberId": 18,
+      "type": "income",
+      "amount": 2680000,
+      "category": "월급",
+      "note": "급여",
+      "date": "2026-04-01",
+      "createdAt": "2026-04-01T12:00:00.000Z"
+    },
+    {
+      "id": 18002,
+      "memberId": 18,
+      "type": "expense",
+      "amount": 7214,
+      "category": "통신",
+      "note": "요금",
+      "date": "2026-04-02",
+      "createdAt": "2026-04-02T12:00:00.000Z"
+    },
+    {
+      "id": 19001,
+      "memberId": 19,
+      "type": "income",
+      "amount": 2690000,
+      "category": "월급",
+      "note": "급여",
+      "date": "2026-04-01",
+      "createdAt": "2026-04-01T12:00:00.000Z"
+    },
+    {
+      "id": 19002,
+      "memberId": 19,
+      "type": "expense",
+      "amount": 7337,
+      "category": "쇼핑",
+      "note": "생활용품",
+      "date": "2026-04-02",
+      "createdAt": "2026-04-02T12:00:00.000Z"
+    },
+    {
+      "id": 20001,
+      "memberId": 20,
+      "type": "income",
+      "amount": 2700000,
+      "category": "월급",
+      "note": "급여",
+      "date": "2026-04-01",
+      "createdAt": "2026-04-01T12:00:00.000Z"
+    },
+    {
+      "id": 20002,
+      "memberId": 20,
+      "type": "expense",
+      "amount": 7460,
+      "category": "생활",
+      "note": "생필품",
+      "date": "2026-04-02",
+      "createdAt": "2026-04-02T12:00:00.000Z"
+    },
+    {
+      "id": 21001,
+      "memberId": 21,
+      "type": "income",
+      "amount": 2710000,
+      "category": "월급",
+      "note": "급여",
+      "date": "2026-04-01",
+      "createdAt": "2026-04-01T12:00:00.000Z"
+    },
+    {
+      "id": 21002,
+      "memberId": 21,
+      "type": "expense",
+      "amount": 7583,
+      "category": "주거",
+      "note": "관리비",
+      "date": "2026-04-02",
+      "createdAt": "2026-04-02T12:00:00.000Z"
+    },
+    {
+      "id": 22001,
+      "memberId": 22,
+      "type": "income",
+      "amount": 2720000,
+      "category": "월급",
+      "note": "급여",
+      "date": "2026-04-01",
+      "createdAt": "2026-04-01T12:00:00.000Z"
+    },
+    {
+      "id": 22002,
+      "memberId": 22,
+      "type": "expense",
+      "amount": 7706,
+      "category": "카페",
+      "note": "커피",
+      "date": "2026-04-02",
+      "createdAt": "2026-04-02T12:00:00.000Z"
+    },
+    {
+      "id": 23001,
+      "memberId": 23,
+      "type": "income",
+      "amount": 2730000,
+      "category": "월급",
+      "note": "급여",
+      "date": "2026-04-01",
+      "createdAt": "2026-04-01T12:00:00.000Z"
+    },
+    {
+      "id": 23002,
+      "memberId": 23,
+      "type": "expense",
+      "amount": 7829,
+      "category": "식비",
+      "note": "식사",
+      "date": "2026-04-02",
+      "createdAt": "2026-04-02T12:00:00.000Z"
+    },
+    {
+      "id": 24001,
+      "memberId": 24,
+      "type": "income",
+      "amount": 2740000,
+      "category": "월급",
+      "note": "급여",
+      "date": "2026-04-01",
+      "createdAt": "2026-04-01T12:00:00.000Z"
+    },
+    {
+      "id": 24002,
+      "memberId": 24,
+      "type": "expense",
+      "amount": 7952,
+      "category": "교통",
+      "note": "대중교통",
+      "date": "2026-04-02",
+      "createdAt": "2026-04-02T12:00:00.000Z"
+    },
+    {
+      "id": 25001,
+      "memberId": 25,
+      "type": "income",
+      "amount": 2750000,
+      "category": "월급",
+      "note": "급여",
+      "date": "2026-04-01",
+      "createdAt": "2026-04-01T12:00:00.000Z"
+    },
+    {
+      "id": 25002,
+      "memberId": 25,
+      "type": "expense",
+      "amount": 8075,
+      "category": "통신",
+      "note": "요금",
+      "date": "2026-04-02",
+      "createdAt": "2026-04-02T12:00:00.000Z"
+    },
+    {
+      "id": 26001,
+      "memberId": 26,
+      "type": "income",
+      "amount": 2760000,
+      "category": "월급",
+      "note": "급여",
+      "date": "2026-04-01",
+      "createdAt": "2026-04-01T12:00:00.000Z"
+    },
+    {
+      "id": 26002,
+      "memberId": 26,
+      "type": "expense",
+      "amount": 8198,
+      "category": "쇼핑",
+      "note": "생활용품",
+      "date": "2026-04-02",
+      "createdAt": "2026-04-02T12:00:00.000Z"
+    },
+    {
+      "id": 27001,
+      "memberId": 27,
+      "type": "income",
+      "amount": 2770000,
+      "category": "월급",
+      "note": "급여",
+      "date": "2026-04-01",
+      "createdAt": "2026-04-01T12:00:00.000Z"
+    },
+    {
+      "id": 27002,
+      "memberId": 27,
+      "type": "expense",
+      "amount": 8321,
+      "category": "생활",
+      "note": "생필품",
+      "date": "2026-04-02",
+      "createdAt": "2026-04-02T12:00:00.000Z"
+    },
+    {
+      "id": 28001,
+      "memberId": 28,
+      "type": "income",
+      "amount": 2780000,
+      "category": "월급",
+      "note": "급여",
+      "date": "2026-04-01",
+      "createdAt": "2026-04-01T12:00:00.000Z"
+    },
+    {
+      "id": 28002,
+      "memberId": 28,
+      "type": "expense",
+      "amount": 8444,
+      "category": "주거",
+      "note": "관리비",
+      "date": "2026-04-02",
+      "createdAt": "2026-04-02T12:00:00.000Z"
+    },
+    {
+      "id": 29001,
+      "memberId": 29,
+      "type": "income",
+      "amount": 2790000,
+      "category": "월급",
+      "note": "급여",
+      "date": "2026-04-01",
+      "createdAt": "2026-04-01T12:00:00.000Z"
+    },
+    {
+      "id": 29002,
+      "memberId": 29,
+      "type": "expense",
+      "amount": 8567,
+      "category": "카페",
+      "note": "커피",
+      "date": "2026-04-02",
+      "createdAt": "2026-04-02T12:00:00.000Z"
+    },
+    {
+      "id": 30001,
+      "memberId": 30,
+      "type": "income",
+      "amount": 2800000,
+      "category": "월급",
+      "note": "급여",
+      "date": "2026-04-01",
+      "createdAt": "2026-04-01T12:00:00.000Z"
+    },
+    {
+      "id": 30002,
+      "memberId": 30,
+      "type": "expense",
+      "amount": 8690,
+      "category": "식비",
+      "note": "식사",
+      "date": "2026-04-02",
+      "createdAt": "2026-04-02T12:00:00.000Z"
+    },
+    {
+      "id": 31001,
+      "memberId": 31,
+      "type": "income",
+      "amount": 2810000,
+      "category": "월급",
+      "note": "급여",
+      "date": "2026-04-01",
+      "createdAt": "2026-04-01T12:00:00.000Z"
+    },
+    {
+      "id": 31002,
+      "memberId": 31,
+      "type": "expense",
+      "amount": 8813,
+      "category": "교통",
+      "note": "대중교통",
+      "date": "2026-04-02",
+      "createdAt": "2026-04-02T12:00:00.000Z"
+    },
+    {
+      "id": 32001,
+      "memberId": 32,
+      "type": "income",
+      "amount": 2820000,
+      "category": "월급",
+      "note": "급여",
+      "date": "2026-04-01",
+      "createdAt": "2026-04-01T12:00:00.000Z"
+    },
+    {
+      "id": 32002,
+      "memberId": 32,
+      "type": "expense",
+      "amount": 8936,
+      "category": "통신",
+      "note": "요금",
+      "date": "2026-04-02",
+      "createdAt": "2026-04-02T12:00:00.000Z"
+    },
+    {
+      "id": 33001,
+      "memberId": 33,
+      "type": "income",
+      "amount": 2830000,
+      "category": "월급",
+      "note": "급여",
+      "date": "2026-04-01",
+      "createdAt": "2026-04-01T12:00:00.000Z"
+    },
+    {
+      "id": 33002,
+      "memberId": 33,
+      "type": "expense",
+      "amount": 9059,
+      "category": "쇼핑",
+      "note": "생활용품",
+      "date": "2026-04-02",
+      "createdAt": "2026-04-02T12:00:00.000Z"
+    },
+    {
+      "id": 34001,
+      "memberId": 34,
+      "type": "income",
+      "amount": 2840000,
+      "category": "월급",
+      "note": "급여",
+      "date": "2026-04-01",
+      "createdAt": "2026-04-01T12:00:00.000Z"
+    },
+    {
+      "id": 34002,
+      "memberId": 34,
+      "type": "expense",
+      "amount": 9182,
+      "category": "생활",
+      "note": "생필품",
+      "date": "2026-04-02",
+      "createdAt": "2026-04-02T12:00:00.000Z"
+    },
+    {
+      "id": 35001,
+      "memberId": 35,
+      "type": "income",
+      "amount": 2850000,
+      "category": "월급",
+      "note": "급여",
+      "date": "2026-04-01",
+      "createdAt": "2026-04-01T12:00:00.000Z"
+    },
+    {
+      "id": 35002,
+      "memberId": 35,
+      "type": "expense",
+      "amount": 9305,
+      "category": "주거",
+      "note": "관리비",
+      "date": "2026-04-02",
+      "createdAt": "2026-04-02T12:00:00.000Z"
+    },
+    {
+      "id": 36001,
+      "memberId": 36,
+      "type": "income",
+      "amount": 2860000,
+      "category": "월급",
+      "note": "급여",
+      "date": "2026-04-01",
+      "createdAt": "2026-04-01T12:00:00.000Z"
+    },
+    {
+      "id": 36002,
+      "memberId": 36,
+      "type": "expense",
+      "amount": 9428,
+      "category": "카페",
+      "note": "커피",
+      "date": "2026-04-02",
+      "createdAt": "2026-04-02T12:00:00.000Z"
+    },
+    {
+      "id": 37001,
+      "memberId": 37,
+      "type": "income",
+      "amount": 2870000,
+      "category": "월급",
+      "note": "급여",
+      "date": "2026-04-01",
+      "createdAt": "2026-04-01T12:00:00.000Z"
+    },
+    {
+      "id": 37002,
+      "memberId": 37,
+      "type": "expense",
+      "amount": 9551,
+      "category": "식비",
+      "note": "식사",
+      "date": "2026-04-02",
+      "createdAt": "2026-04-02T12:00:00.000Z"
+    },
+    {
+      "id": 38001,
+      "memberId": 38,
+      "type": "income",
+      "amount": 2880000,
+      "category": "월급",
+      "note": "급여",
+      "date": "2026-04-01",
+      "createdAt": "2026-04-01T12:00:00.000Z"
+    },
+    {
+      "id": 38002,
+      "memberId": 38,
+      "type": "expense",
+      "amount": 9674,
+      "category": "교통",
+      "note": "대중교통",
+      "date": "2026-04-02",
+      "createdAt": "2026-04-02T12:00:00.000Z"
+    },
+    {
+      "id": 39001,
+      "memberId": 39,
+      "type": "income",
+      "amount": 2890000,
+      "category": "월급",
+      "note": "급여",
+      "date": "2026-04-01",
+      "createdAt": "2026-04-01T12:00:00.000Z"
+    },
+    {
+      "id": 39002,
+      "memberId": 39,
+      "type": "expense",
+      "amount": 9797,
+      "category": "통신",
+      "note": "요금",
+      "date": "2026-04-02",
+      "createdAt": "2026-04-02T12:00:00.000Z"
+    },
+    {
+      "id": 40001,
+      "memberId": 40,
+      "type": "income",
+      "amount": 2900000,
+      "category": "월급",
+      "note": "급여",
+      "date": "2026-04-01",
+      "createdAt": "2026-04-01T12:00:00.000Z"
+    },
+    {
+      "id": 40002,
+      "memberId": 40,
+      "type": "expense",
+      "amount": 9920,
+      "category": "쇼핑",
+      "note": "생활용품",
+      "date": "2026-04-02",
+      "createdAt": "2026-04-02T12:00:00.000Z"
+    },
+    {
+      "id": 41001,
+      "memberId": 41,
+      "type": "income",
+      "amount": 2910000,
+      "category": "월급",
+      "note": "급여",
+      "date": "2026-04-01",
+      "createdAt": "2026-04-01T12:00:00.000Z"
+    },
+    {
+      "id": 41002,
+      "memberId": 41,
+      "type": "expense",
+      "amount": 10043,
+      "category": "생활",
+      "note": "생필품",
+      "date": "2026-04-02",
+      "createdAt": "2026-04-02T12:00:00.000Z"
+    },
+    {
+      "id": 42001,
+      "memberId": 42,
+      "type": "income",
+      "amount": 2920000,
+      "category": "월급",
+      "note": "급여",
+      "date": "2026-04-01",
+      "createdAt": "2026-04-01T12:00:00.000Z"
+    },
+    {
+      "id": 42002,
+      "memberId": 42,
+      "type": "expense",
+      "amount": 10166,
+      "category": "주거",
+      "note": "관리비",
+      "date": "2026-04-02",
+      "createdAt": "2026-04-02T12:00:00.000Z"
+    },
+    {
+      "id": 43001,
+      "memberId": 43,
+      "type": "income",
+      "amount": 2930000,
+      "category": "월급",
+      "note": "급여",
+      "date": "2026-04-01",
+      "createdAt": "2026-04-01T12:00:00.000Z"
+    },
+    {
+      "id": 43002,
+      "memberId": 43,
+      "type": "expense",
+      "amount": 10289,
+      "category": "카페",
+      "note": "커피",
+      "date": "2026-04-02",
+      "createdAt": "2026-04-02T12:00:00.000Z"
+    },
+    {
+      "id": 44001,
+      "memberId": 44,
+      "type": "income",
+      "amount": 2940000,
+      "category": "월급",
+      "note": "급여",
+      "date": "2026-04-01",
+      "createdAt": "2026-04-01T12:00:00.000Z"
+    },
+    {
+      "id": 44002,
+      "memberId": 44,
+      "type": "expense",
+      "amount": 10412,
+      "category": "식비",
+      "note": "식사",
+      "date": "2026-04-02",
+      "createdAt": "2026-04-02T12:00:00.000Z"
+    },
+    {
+      "id": 45001,
+      "memberId": 45,
+      "type": "income",
+      "amount": 2950000,
+      "category": "월급",
+      "note": "급여",
+      "date": "2026-04-01",
+      "createdAt": "2026-04-01T12:00:00.000Z"
+    },
+    {
+      "id": 45002,
+      "memberId": 45,
+      "type": "expense",
+      "amount": 10535,
+      "category": "교통",
+      "note": "대중교통",
+      "date": "2026-04-02",
+      "createdAt": "2026-04-02T12:00:00.000Z"
+    },
+    {
+      "id": 46001,
+      "memberId": 46,
+      "type": "income",
+      "amount": 2960000,
+      "category": "월급",
+      "note": "급여",
+      "date": "2026-04-01",
+      "createdAt": "2026-04-01T12:00:00.000Z"
+    },
+    {
+      "id": 46002,
+      "memberId": 46,
+      "type": "expense",
+      "amount": 10658,
+      "category": "통신",
+      "note": "요금",
+      "date": "2026-04-02",
+      "createdAt": "2026-04-02T12:00:00.000Z"
+    },
+    {
+      "id": 47001,
+      "memberId": 47,
+      "type": "income",
+      "amount": 2970000,
+      "category": "월급",
+      "note": "급여",
+      "date": "2026-04-01",
+      "createdAt": "2026-04-01T12:00:00.000Z"
+    },
+    {
+      "id": 47002,
+      "memberId": 47,
+      "type": "expense",
+      "amount": 10781,
+      "category": "쇼핑",
+      "note": "생활용품",
+      "date": "2026-04-02",
+      "createdAt": "2026-04-02T12:00:00.000Z"
+    },
+    {
+      "id": 48001,
+      "memberId": 48,
+      "type": "income",
+      "amount": 2980000,
+      "category": "월급",
+      "note": "급여",
+      "date": "2026-04-01",
+      "createdAt": "2026-04-01T12:00:00.000Z"
+    },
+    {
+      "id": 48002,
+      "memberId": 48,
+      "type": "expense",
+      "amount": 10904,
+      "category": "생활",
+      "note": "생필품",
+      "date": "2026-04-02",
+      "createdAt": "2026-04-02T12:00:00.000Z"
+    },
+    {
+      "id": 49001,
+      "memberId": 49,
+      "type": "income",
+      "amount": 2990000,
+      "category": "월급",
+      "note": "급여",
+      "date": "2026-04-01",
+      "createdAt": "2026-04-01T12:00:00.000Z"
+    },
+    {
+      "id": 49002,
+      "memberId": 49,
+      "type": "expense",
+      "amount": 11027,
+      "category": "주거",
+      "note": "관리비",
+      "date": "2026-04-02",
+      "createdAt": "2026-04-02T12:00:00.000Z"
+    },
+    {
+      "id": 50001,
+      "memberId": 50,
+      "type": "income",
+      "amount": 3000000,
+      "category": "월급",
+      "note": "급여",
+      "date": "2026-04-01",
+      "createdAt": "2026-04-01T12:00:00.000Z"
+    },
+    {
+      "id": 50002,
+      "memberId": 50,
+      "type": "expense",
+      "amount": 11150,
+      "category": "카페",
+      "note": "커피",
+      "date": "2026-04-02",
+      "createdAt": "2026-04-02T12:00:00.000Z"
+    },
+    {
+      "id": 51001,
+      "memberId": 51,
+      "type": "income",
+      "amount": 3010000,
+      "category": "월급",
+      "note": "급여",
+      "date": "2026-04-01",
+      "createdAt": "2026-04-01T12:00:00.000Z"
+    },
+    {
+      "id": 51002,
+      "memberId": 51,
+      "type": "expense",
+      "amount": 11273,
+      "category": "식비",
+      "note": "식사",
+      "date": "2026-04-02",
+      "createdAt": "2026-04-02T12:00:00.000Z"
+    },
+    {
+      "id": 52001,
+      "memberId": 52,
+      "type": "income",
+      "amount": 3020000,
+      "category": "월급",
+      "note": "급여",
+      "date": "2026-04-01",
+      "createdAt": "2026-04-01T12:00:00.000Z"
+    },
+    {
+      "id": 52002,
+      "memberId": 52,
+      "type": "expense",
+      "amount": 11396,
+      "category": "교통",
+      "note": "대중교통",
+      "date": "2026-04-02",
+      "createdAt": "2026-04-02T12:00:00.000Z"
+    },
+    {
+      "id": 53001,
+      "memberId": 53,
+      "type": "income",
+      "amount": 3030000,
+      "category": "월급",
+      "note": "급여",
+      "date": "2026-04-01",
+      "createdAt": "2026-04-01T12:00:00.000Z"
+    },
+    {
+      "id": 53002,
+      "memberId": 53,
+      "type": "expense",
+      "amount": 11519,
+      "category": "통신",
+      "note": "요금",
+      "date": "2026-04-02",
+      "createdAt": "2026-04-02T12:00:00.000Z"
+    },
+    {
+      "id": 54001,
+      "memberId": 54,
+      "type": "income",
+      "amount": 3040000,
+      "category": "월급",
+      "note": "급여",
+      "date": "2026-04-01",
+      "createdAt": "2026-04-01T12:00:00.000Z"
+    },
+    {
+      "id": 54002,
+      "memberId": 54,
+      "type": "expense",
+      "amount": 11642,
+      "category": "쇼핑",
+      "note": "생활용품",
+      "date": "2026-04-02",
+      "createdAt": "2026-04-02T12:00:00.000Z"
+    },
+    {
+      "id": 55001,
+      "memberId": 55,
+      "type": "income",
+      "amount": 3050000,
+      "category": "월급",
+      "note": "급여",
+      "date": "2026-04-01",
+      "createdAt": "2026-04-01T12:00:00.000Z"
+    },
+    {
+      "id": 55002,
+      "memberId": 55,
+      "type": "expense",
+      "amount": 11765,
+      "category": "생활",
+      "note": "생필품",
+      "date": "2026-04-02",
+      "createdAt": "2026-04-02T12:00:00.000Z"
+    },
+    {
+      "id": 56001,
+      "memberId": 56,
+      "type": "income",
+      "amount": 3060000,
+      "category": "월급",
+      "note": "급여",
+      "date": "2026-04-01",
+      "createdAt": "2026-04-01T12:00:00.000Z"
+    },
+    {
+      "id": 56002,
+      "memberId": 56,
+      "type": "expense",
+      "amount": 11888,
+      "category": "주거",
+      "note": "관리비",
+      "date": "2026-04-02",
+      "createdAt": "2026-04-02T12:00:00.000Z"
+    },
+    {
+      "id": 57001,
+      "memberId": 57,
+      "type": "income",
+      "amount": 3070000,
+      "category": "월급",
+      "note": "급여",
+      "date": "2026-04-01",
+      "createdAt": "2026-04-01T12:00:00.000Z"
+    },
+    {
+      "id": 57002,
+      "memberId": 57,
+      "type": "expense",
+      "amount": 12011,
+      "category": "카페",
+      "note": "커피",
+      "date": "2026-04-02",
+      "createdAt": "2026-04-02T12:00:00.000Z"
+    },
+    {
+      "id": 58001,
+      "memberId": 58,
+      "type": "income",
+      "amount": 3080000,
+      "category": "월급",
+      "note": "급여",
+      "date": "2026-04-01",
+      "createdAt": "2026-04-01T12:00:00.000Z"
+    },
+    {
+      "id": 58002,
+      "memberId": 58,
+      "type": "expense",
+      "amount": 12134,
+      "category": "식비",
+      "note": "식사",
+      "date": "2026-04-02",
+      "createdAt": "2026-04-02T12:00:00.000Z"
+    },
+    {
+      "id": 59001,
+      "memberId": 59,
+      "type": "income",
+      "amount": 3090000,
+      "category": "월급",
+      "note": "급여",
+      "date": "2026-04-01",
+      "createdAt": "2026-04-01T12:00:00.000Z"
+    },
+    {
+      "id": 59002,
+      "memberId": 59,
+      "type": "expense",
+      "amount": 12257,
+      "category": "교통",
+      "note": "대중교통",
+      "date": "2026-04-02",
+      "createdAt": "2026-04-02T12:00:00.000Z"
+    },
+    {
+      "id": 60001,
+      "memberId": 60,
+      "type": "income",
+      "amount": 3100000,
+      "category": "월급",
+      "note": "급여",
+      "date": "2026-04-01",
+      "createdAt": "2026-04-01T12:00:00.000Z"
+    },
+    {
+      "id": 60002,
+      "memberId": 60,
+      "type": "expense",
+      "amount": 12380,
+      "category": "통신",
+      "note": "요금",
+      "date": "2026-04-02",
+      "createdAt": "2026-04-02T12:00:00.000Z"
+    },
+    {
+      "id": 61001,
+      "memberId": 61,
+      "type": "income",
+      "amount": 3110000,
+      "category": "월급",
+      "note": "급여",
+      "date": "2026-04-01",
+      "createdAt": "2026-04-01T12:00:00.000Z"
+    },
+    {
+      "id": 61002,
+      "memberId": 61,
+      "type": "expense",
+      "amount": 12503,
+      "category": "쇼핑",
+      "note": "생활용품",
+      "date": "2026-04-02",
+      "createdAt": "2026-04-02T12:00:00.000Z"
+    },
+    {
+      "id": 62001,
+      "memberId": 62,
+      "type": "income",
+      "amount": 3120000,
+      "category": "월급",
+      "note": "급여",
+      "date": "2026-04-01",
+      "createdAt": "2026-04-01T12:00:00.000Z"
+    },
+    {
+      "id": 62002,
+      "memberId": 62,
+      "type": "expense",
+      "amount": 12626,
+      "category": "생활",
+      "note": "생필품",
+      "date": "2026-04-02",
+      "createdAt": "2026-04-02T12:00:00.000Z"
+    },
+    {
+      "id": 63001,
+      "memberId": 63,
+      "type": "income",
+      "amount": 3130000,
+      "category": "월급",
+      "note": "급여",
+      "date": "2026-04-01",
+      "createdAt": "2026-04-01T12:00:00.000Z"
+    },
+    {
+      "id": 63002,
+      "memberId": 63,
+      "type": "expense",
+      "amount": 12749,
+      "category": "주거",
+      "note": "관리비",
+      "date": "2026-04-02",
+      "createdAt": "2026-04-02T12:00:00.000Z"
+    },
+    {
+      "id": 64001,
+      "memberId": 64,
+      "type": "income",
+      "amount": 3140000,
+      "category": "월급",
+      "note": "급여",
+      "date": "2026-04-01",
+      "createdAt": "2026-04-01T12:00:00.000Z"
+    },
+    {
+      "id": 64002,
+      "memberId": 64,
+      "type": "expense",
+      "amount": 12872,
+      "category": "카페",
+      "note": "커피",
+      "date": "2026-04-02",
+      "createdAt": "2026-04-02T12:00:00.000Z"
+    },
+    {
+      "id": 65001,
+      "memberId": 65,
+      "type": "income",
+      "amount": 3150000,
+      "category": "월급",
+      "note": "급여",
+      "date": "2026-04-01",
+      "createdAt": "2026-04-01T12:00:00.000Z"
+    },
+    {
+      "id": 65002,
+      "memberId": 65,
+      "type": "expense",
+      "amount": 12995,
+      "category": "식비",
+      "note": "식사",
+      "date": "2026-04-02",
+      "createdAt": "2026-04-02T12:00:00.000Z"
+    },
+    {
+      "id": 66001,
+      "memberId": 66,
+      "type": "income",
+      "amount": 3160000,
+      "category": "월급",
+      "note": "급여",
+      "date": "2026-04-01",
+      "createdAt": "2026-04-01T12:00:00.000Z"
+    },
+    {
+      "id": 66002,
+      "memberId": 66,
+      "type": "expense",
+      "amount": 13118,
+      "category": "교통",
+      "note": "대중교통",
+      "date": "2026-04-02",
+      "createdAt": "2026-04-02T12:00:00.000Z"
+    },
+    {
+      "id": 67001,
+      "memberId": 67,
+      "type": "income",
+      "amount": 3170000,
+      "category": "월급",
+      "note": "급여",
+      "date": "2026-04-01",
+      "createdAt": "2026-04-01T12:00:00.000Z"
+    },
+    {
+      "id": 67002,
+      "memberId": 67,
+      "type": "expense",
+      "amount": 13241,
+      "category": "통신",
+      "note": "요금",
+      "date": "2026-04-02",
+      "createdAt": "2026-04-02T12:00:00.000Z"
+    },
+    {
+      "id": 68001,
+      "memberId": 68,
+      "type": "income",
+      "amount": 3180000,
+      "category": "월급",
+      "note": "급여",
+      "date": "2026-04-01",
+      "createdAt": "2026-04-01T12:00:00.000Z"
+    },
+    {
+      "id": 68002,
+      "memberId": 68,
+      "type": "expense",
+      "amount": 13364,
+      "category": "쇼핑",
+      "note": "생활용품",
+      "date": "2026-04-02",
+      "createdAt": "2026-04-02T12:00:00.000Z"
+    },
+    {
+      "id": 69001,
+      "memberId": 69,
+      "type": "income",
+      "amount": 3190000,
+      "category": "월급",
+      "note": "급여",
+      "date": "2026-04-01",
+      "createdAt": "2026-04-01T12:00:00.000Z"
+    },
+    {
+      "id": 69002,
+      "memberId": 69,
+      "type": "expense",
+      "amount": 13487,
+      "category": "생활",
+      "note": "생필품",
+      "date": "2026-04-02",
+      "createdAt": "2026-04-02T12:00:00.000Z"
+    },
+    {
+      "id": 70001,
+      "memberId": 70,
+      "type": "income",
+      "amount": 3200000,
+      "category": "월급",
+      "note": "급여",
+      "date": "2026-04-01",
+      "createdAt": "2026-04-01T12:00:00.000Z"
+    },
+    {
+      "id": 70002,
+      "memberId": 70,
+      "type": "expense",
+      "amount": 13610,
+      "category": "주거",
+      "note": "관리비",
+      "date": "2026-04-02",
+      "createdAt": "2026-04-02T12:00:00.000Z"
+    },
+    {
+      "id": 71001,
+      "memberId": 71,
+      "type": "income",
+      "amount": 3210000,
+      "category": "월급",
+      "note": "급여",
+      "date": "2026-04-01",
+      "createdAt": "2026-04-01T12:00:00.000Z"
+    },
+    {
+      "id": 71002,
+      "memberId": 71,
+      "type": "expense",
+      "amount": 13733,
+      "category": "카페",
+      "note": "커피",
+      "date": "2026-04-02",
+      "createdAt": "2026-04-02T12:00:00.000Z"
+    },
+    {
+      "id": 72001,
+      "memberId": 72,
+      "type": "income",
+      "amount": 3220000,
+      "category": "월급",
+      "note": "급여",
+      "date": "2026-04-01",
+      "createdAt": "2026-04-01T12:00:00.000Z"
+    },
+    {
+      "id": 72002,
+      "memberId": 72,
+      "type": "expense",
+      "amount": 13856,
+      "category": "식비",
+      "note": "식사",
+      "date": "2026-04-02",
+      "createdAt": "2026-04-02T12:00:00.000Z"
+    },
+    {
+      "id": 73001,
+      "memberId": 73,
+      "type": "income",
+      "amount": 3230000,
+      "category": "월급",
+      "note": "급여",
+      "date": "2026-04-01",
+      "createdAt": "2026-04-01T12:00:00.000Z"
+    },
+    {
+      "id": 73002,
+      "memberId": 73,
+      "type": "expense",
+      "amount": 13979,
+      "category": "교통",
+      "note": "대중교통",
+      "date": "2026-04-02",
+      "createdAt": "2026-04-02T12:00:00.000Z"
+    },
+    {
+      "id": 74001,
+      "memberId": 74,
+      "type": "income",
+      "amount": 3240000,
+      "category": "월급",
+      "note": "급여",
+      "date": "2026-04-01",
+      "createdAt": "2026-04-01T12:00:00.000Z"
+    },
+    {
+      "id": 74002,
+      "memberId": 74,
+      "type": "expense",
+      "amount": 14102,
+      "category": "통신",
+      "note": "요금",
+      "date": "2026-04-02",
+      "createdAt": "2026-04-02T12:00:00.000Z"
+    },
+    {
+      "id": 75001,
+      "memberId": 75,
+      "type": "income",
+      "amount": 3250000,
+      "category": "월급",
+      "note": "급여",
+      "date": "2026-04-01",
+      "createdAt": "2026-04-01T12:00:00.000Z"
+    },
+    {
+      "id": 75002,
+      "memberId": 75,
+      "type": "expense",
+      "amount": 14225,
+      "category": "쇼핑",
+      "note": "생활용품",
+      "date": "2026-04-02",
+      "createdAt": "2026-04-02T12:00:00.000Z"
+    },
+    {
+      "id": 76001,
+      "memberId": 76,
+      "type": "income",
+      "amount": 3260000,
+      "category": "월급",
+      "note": "급여",
+      "date": "2026-04-01",
+      "createdAt": "2026-04-01T12:00:00.000Z"
+    },
+    {
+      "id": 76002,
+      "memberId": 76,
+      "type": "expense",
+      "amount": 14348,
+      "category": "생활",
+      "note": "생필품",
+      "date": "2026-04-02",
+      "createdAt": "2026-04-02T12:00:00.000Z"
+    },
+    {
+      "id": 77001,
+      "memberId": 77,
+      "type": "income",
+      "amount": 3270000,
+      "category": "월급",
+      "note": "급여",
+      "date": "2026-04-01",
+      "createdAt": "2026-04-01T12:00:00.000Z"
+    },
+    {
+      "id": 77002,
+      "memberId": 77,
+      "type": "expense",
+      "amount": 14471,
+      "category": "주거",
+      "note": "관리비",
+      "date": "2026-04-02",
+      "createdAt": "2026-04-02T12:00:00.000Z"
+    },
+    {
+      "id": 78001,
+      "memberId": 78,
+      "type": "income",
+      "amount": 3280000,
+      "category": "월급",
+      "note": "급여",
+      "date": "2026-04-01",
+      "createdAt": "2026-04-01T12:00:00.000Z"
+    },
+    {
+      "id": 78002,
+      "memberId": 78,
+      "type": "expense",
+      "amount": 14594,
+      "category": "카페",
+      "note": "커피",
+      "date": "2026-04-02",
+      "createdAt": "2026-04-02T12:00:00.000Z"
+    },
+    {
+      "id": 79001,
+      "memberId": 79,
+      "type": "income",
+      "amount": 3290000,
+      "category": "월급",
+      "note": "급여",
+      "date": "2026-04-01",
+      "createdAt": "2026-04-01T12:00:00.000Z"
+    },
+    {
+      "id": 79002,
+      "memberId": 79,
+      "type": "expense",
+      "amount": 14717,
+      "category": "식비",
+      "note": "식사",
+      "date": "2026-04-02",
+      "createdAt": "2026-04-02T12:00:00.000Z"
+    },
+    {
+      "id": 80001,
+      "memberId": 80,
+      "type": "income",
+      "amount": 3300000,
+      "category": "월급",
+      "note": "급여",
+      "date": "2026-04-01",
+      "createdAt": "2026-04-01T12:00:00.000Z"
+    },
+    {
+      "id": 80002,
+      "memberId": 80,
+      "type": "expense",
+      "amount": 14840,
+      "category": "교통",
+      "note": "대중교통",
+      "date": "2026-04-02",
+      "createdAt": "2026-04-02T12:00:00.000Z"
+    },
+    {
+      "id": 81001,
+      "memberId": 81,
+      "type": "income",
+      "amount": 3310000,
+      "category": "월급",
+      "note": "급여",
+      "date": "2026-04-01",
+      "createdAt": "2026-04-01T12:00:00.000Z"
+    },
+    {
+      "id": 81002,
+      "memberId": 81,
+      "type": "expense",
+      "amount": 14963,
+      "category": "통신",
+      "note": "요금",
+      "date": "2026-04-02",
+      "createdAt": "2026-04-02T12:00:00.000Z"
+    },
+    {
+      "id": 82001,
+      "memberId": 82,
+      "type": "income",
+      "amount": 3320000,
+      "category": "월급",
+      "note": "급여",
+      "date": "2026-04-01",
+      "createdAt": "2026-04-01T12:00:00.000Z"
+    },
+    {
+      "id": 82002,
+      "memberId": 82,
+      "type": "expense",
+      "amount": 15086,
+      "category": "쇼핑",
+      "note": "생활용품",
+      "date": "2026-04-02",
+      "createdAt": "2026-04-02T12:00:00.000Z"
+    },
+    {
+      "id": 83001,
+      "memberId": 83,
+      "type": "income",
+      "amount": 3330000,
+      "category": "월급",
+      "note": "급여",
+      "date": "2026-04-01",
+      "createdAt": "2026-04-01T12:00:00.000Z"
+    },
+    {
+      "id": 83002,
+      "memberId": 83,
+      "type": "expense",
+      "amount": 15209,
+      "category": "생활",
+      "note": "생필품",
+      "date": "2026-04-02",
+      "createdAt": "2026-04-02T12:00:00.000Z"
+    },
+    {
+      "id": 84001,
+      "memberId": 84,
+      "type": "income",
+      "amount": 3340000,
+      "category": "월급",
+      "note": "급여",
+      "date": "2026-04-01",
+      "createdAt": "2026-04-01T12:00:00.000Z"
+    },
+    {
+      "id": 84002,
+      "memberId": 84,
+      "type": "expense",
+      "amount": 15332,
+      "category": "주거",
+      "note": "관리비",
+      "date": "2026-04-02",
+      "createdAt": "2026-04-02T12:00:00.000Z"
+    },
+    {
+      "id": 85001,
+      "memberId": 85,
+      "type": "income",
+      "amount": 3350000,
+      "category": "월급",
+      "note": "급여",
+      "date": "2026-04-01",
+      "createdAt": "2026-04-01T12:00:00.000Z"
+    },
+    {
+      "id": 85002,
+      "memberId": 85,
+      "type": "expense",
+      "amount": 15455,
+      "category": "카페",
+      "note": "커피",
+      "date": "2026-04-02",
+      "createdAt": "2026-04-02T12:00:00.000Z"
+    },
+    {
+      "id": 86001,
+      "memberId": 86,
+      "type": "income",
+      "amount": 3360000,
+      "category": "월급",
+      "note": "급여",
+      "date": "2026-04-01",
+      "createdAt": "2026-04-01T12:00:00.000Z"
+    },
+    {
+      "id": 86002,
+      "memberId": 86,
+      "type": "expense",
+      "amount": 15578,
+      "category": "식비",
+      "note": "식사",
+      "date": "2026-04-02",
+      "createdAt": "2026-04-02T12:00:00.000Z"
+    },
+    {
+      "id": 87001,
+      "memberId": 87,
+      "type": "income",
+      "amount": 3370000,
+      "category": "월급",
+      "note": "급여",
+      "date": "2026-04-01",
+      "createdAt": "2026-04-01T12:00:00.000Z"
+    },
+    {
+      "id": 87002,
+      "memberId": 87,
+      "type": "expense",
+      "amount": 15701,
+      "category": "교통",
+      "note": "대중교통",
+      "date": "2026-04-02",
+      "createdAt": "2026-04-02T12:00:00.000Z"
+    },
+    {
+      "id": 88001,
+      "memberId": 88,
+      "type": "income",
+      "amount": 3380000,
+      "category": "월급",
+      "note": "급여",
+      "date": "2026-04-01",
+      "createdAt": "2026-04-01T12:00:00.000Z"
+    },
+    {
+      "id": 88002,
+      "memberId": 88,
+      "type": "expense",
+      "amount": 15824,
+      "category": "통신",
+      "note": "요금",
+      "date": "2026-04-02",
+      "createdAt": "2026-04-02T12:00:00.000Z"
+    },
+    {
+      "id": 89001,
+      "memberId": 89,
+      "type": "income",
+      "amount": 3390000,
+      "category": "월급",
+      "note": "급여",
+      "date": "2026-04-01",
+      "createdAt": "2026-04-01T12:00:00.000Z"
+    },
+    {
+      "id": 89002,
+      "memberId": 89,
+      "type": "expense",
+      "amount": 15947,
+      "category": "쇼핑",
+      "note": "생활용품",
+      "date": "2026-04-02",
+      "createdAt": "2026-04-02T12:00:00.000Z"
+    },
+    {
+      "id": 90001,
+      "memberId": 90,
+      "type": "income",
+      "amount": 3400000,
+      "category": "월급",
+      "note": "급여",
+      "date": "2026-04-01",
+      "createdAt": "2026-04-01T12:00:00.000Z"
+    },
+    {
+      "id": 90002,
+      "memberId": 90,
+      "type": "expense",
+      "amount": 16070,
+      "category": "생활",
+      "note": "생필품",
+      "date": "2026-04-02",
+      "createdAt": "2026-04-02T12:00:00.000Z"
+    },
+    {
+      "id": 91001,
+      "memberId": 91,
+      "type": "income",
+      "amount": 3410000,
+      "category": "월급",
+      "note": "급여",
+      "date": "2026-04-01",
+      "createdAt": "2026-04-01T12:00:00.000Z"
+    },
+    {
+      "id": 91002,
+      "memberId": 91,
+      "type": "expense",
+      "amount": 16193,
+      "category": "주거",
+      "note": "관리비",
+      "date": "2026-04-02",
+      "createdAt": "2026-04-02T12:00:00.000Z"
+    },
+    {
+      "id": 92001,
+      "memberId": 92,
+      "type": "income",
+      "amount": 3420000,
+      "category": "월급",
+      "note": "급여",
+      "date": "2026-04-01",
+      "createdAt": "2026-04-01T12:00:00.000Z"
+    },
+    {
+      "id": 92002,
+      "memberId": 92,
+      "type": "expense",
+      "amount": 16316,
+      "category": "카페",
+      "note": "커피",
+      "date": "2026-04-02",
+      "createdAt": "2026-04-02T12:00:00.000Z"
+    },
+    {
+      "id": 93001,
+      "memberId": 93,
+      "type": "income",
+      "amount": 3430000,
+      "category": "월급",
+      "note": "급여",
+      "date": "2026-04-01",
+      "createdAt": "2026-04-01T12:00:00.000Z"
+    },
+    {
+      "id": 93002,
+      "memberId": 93,
+      "type": "expense",
+      "amount": 16439,
+      "category": "식비",
+      "note": "식사",
+      "date": "2026-04-02",
+      "createdAt": "2026-04-02T12:00:00.000Z"
+    },
+    {
+      "id": 94001,
+      "memberId": 94,
+      "type": "income",
+      "amount": 3440000,
+      "category": "월급",
+      "note": "급여",
+      "date": "2026-04-01",
+      "createdAt": "2026-04-01T12:00:00.000Z"
+    },
+    {
+      "id": 94002,
+      "memberId": 94,
+      "type": "expense",
+      "amount": 16562,
+      "category": "교통",
+      "note": "대중교통",
+      "date": "2026-04-02",
+      "createdAt": "2026-04-02T12:00:00.000Z"
+    },
+    {
+      "id": 95001,
+      "memberId": 95,
+      "type": "income",
+      "amount": 3450000,
+      "category": "월급",
+      "note": "급여",
+      "date": "2026-04-01",
+      "createdAt": "2026-04-01T12:00:00.000Z"
+    },
+    {
+      "id": 95002,
+      "memberId": 95,
+      "type": "expense",
+      "amount": 16685,
+      "category": "통신",
+      "note": "요금",
+      "date": "2026-04-02",
+      "createdAt": "2026-04-02T12:00:00.000Z"
+    },
+    {
+      "id": 96001,
+      "memberId": 96,
+      "type": "income",
+      "amount": 3460000,
+      "category": "월급",
+      "note": "급여",
+      "date": "2026-04-01",
+      "createdAt": "2026-04-01T12:00:00.000Z"
+    },
+    {
+      "id": 96002,
+      "memberId": 96,
+      "type": "expense",
+      "amount": 16808,
+      "category": "쇼핑",
+      "note": "생활용품",
+      "date": "2026-04-02",
+      "createdAt": "2026-04-02T12:00:00.000Z"
+    },
+    {
+      "id": 97001,
+      "memberId": 97,
+      "type": "income",
+      "amount": 3470000,
+      "category": "월급",
+      "note": "급여",
+      "date": "2026-04-01",
+      "createdAt": "2026-04-01T12:00:00.000Z"
+    },
+    {
+      "id": 97002,
+      "memberId": 97,
+      "type": "expense",
+      "amount": 16931,
+      "category": "생활",
+      "note": "생필품",
+      "date": "2026-04-02",
+      "createdAt": "2026-04-02T12:00:00.000Z"
+    },
+    {
+      "id": 98001,
+      "memberId": 98,
+      "type": "income",
+      "amount": 3480000,
+      "category": "월급",
+      "note": "급여",
+      "date": "2026-04-01",
+      "createdAt": "2026-04-01T12:00:00.000Z"
+    },
+    {
+      "id": 98002,
+      "memberId": 98,
+      "type": "expense",
+      "amount": 17054,
+      "category": "주거",
+      "note": "관리비",
+      "date": "2026-04-02",
+      "createdAt": "2026-04-02T12:00:00.000Z"
+    },
+    {
+      "id": 99001,
+      "memberId": 99,
+      "type": "income",
+      "amount": 3490000,
+      "category": "월급",
+      "note": "급여",
+      "date": "2026-04-01",
+      "createdAt": "2026-04-01T12:00:00.000Z"
+    },
+    {
+      "id": 99002,
+      "memberId": 99,
+      "type": "expense",
+      "amount": 17177,
+      "category": "카페",
+      "note": "커피",
+      "date": "2026-04-02",
+      "createdAt": "2026-04-02T12:00:00.000Z"
+    },
+    {
+      "id": 100001,
+      "memberId": 100,
+      "type": "income",
+      "amount": 3500000,
+      "category": "월급",
+      "note": "급여",
+      "date": "2026-04-01",
+      "createdAt": "2026-04-01T12:00:00.000Z"
+    },
+    {
+      "id": 100002,
+      "memberId": 100,
+      "type": "expense",
+      "amount": 17300,
+      "category": "식비",
+      "note": "식사",
+      "date": "2026-04-02",
+      "createdAt": "2026-04-02T12:00:00.000Z"
+    }
+  ]
+}

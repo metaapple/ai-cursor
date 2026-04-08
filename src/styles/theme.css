@@ -1,0 +1,59 @@
+:root {
+  --kb-orange-500: #ff7a00;
+  --kb-orange-600: #f06f00;
+  --kb-orange-700: #d96200;
+  --kb-ink: #101425;
+  --kb-ink-2: #252b3b;
+  --kb-surface: #ffffff;
+  --kb-bg: #f6f7fb;
+}
+
+html,
+body {
+  height: 100%;
+}
+
+.bg-app {
+  background:
+    radial-gradient(1200px 600px at 10% 0%, rgba(255, 122, 0, 0.14), transparent 60%),
+    radial-gradient(900px 520px at 100% 20%, rgba(255, 176, 0, 0.12), transparent 55%),
+    var(--kb-bg);
+  color: var(--kb-ink);
+}
+
+.card {
+  background: var(--kb-surface);
+}
+
+.btn-primary {
+  --bs-btn-bg: var(--kb-orange-500);
+  --bs-btn-border-color: var(--kb-orange-500);
+  --bs-btn-hover-bg: var(--kb-orange-600);
+  --bs-btn-hover-border-color: var(--kb-orange-600);
+  --bs-btn-active-bg: var(--kb-orange-700);
+  --bs-btn-active-border-color: var(--kb-orange-700);
+  --bs-btn-focus-shadow-rgb: 255, 122, 0;
+}
+
+.btn-outline-primary {
+  --bs-btn-color: var(--kb-orange-600);
+  --bs-btn-border-color: rgba(255, 122, 0, 0.55);
+  --bs-btn-hover-bg: rgba(255, 122, 0, 0.08);
+  --bs-btn-hover-border-color: rgba(255, 122, 0, 0.65);
+  --bs-btn-active-bg: rgba(255, 122, 0, 0.12);
+  --bs-btn-active-border-color: rgba(255, 122, 0, 0.75);
+  --bs-btn-focus-shadow-rgb: 255, 122, 0;
+}
+
+.link-primary {
+  color: var(--kb-orange-600) !important;
+}
+.link-primary:hover {
+  color: var(--kb-orange-700) !important;
+}
+
+.form-control:focus {
+  border-color: rgba(255, 122, 0, 0.55);
+  box-shadow: 0 0 0 0.25rem rgba(255, 122, 0, 0.15);
+}
+
