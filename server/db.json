@@ -706,6 +706,13 @@
       "password": "11111111",
       "createdAt": "2026-04-08T07:02:38.982Z",
       "id": 101
+    },
+    {
+      "name": "홍길동",
+      "email": "root@apple.com",
+      "password": "11111111",
+      "createdAt": "2026-04-08T08:09:35.991Z",
+      "id": 102
     }
   ],
   "ledgerEntries": [

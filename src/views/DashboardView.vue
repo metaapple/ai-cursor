@@ -22,6 +22,44 @@
     </div>
   </div>
 
+  <div class="card border-0 shadow-sm mb-3">
+    <div class="card-body p-3 p-md-4">
+      <div class="row g-2 align-items-end">
+        <div class="col-12 col-md-4">
+          <label class="form-label small text-muted mb-1">
+            <i class="fa-regular fa-calendar me-1"></i> 시작일
+          </label>
+          <input v-model="filters.from" type="date" class="form-control" />
+        </div>
+        <div class="col-12 col-md-4">
+          <label class="form-label small text-muted mb-1">
+            <i class="fa-regular fa-calendar-check me-1"></i> 종료일
+          </label>
+          <input v-model="filters.to" type="date" class="form-control" />
+        </div>
+        <div class="col-12 col-md-4">
+          <label class="form-label small text-muted mb-1">빠른 선택</label>
+          <div class="d-flex gap-2 flex-wrap">
+            <button class="btn btn-outline-primary btn-sm" type="button" @click="setThisMonth">
+              <i class="fa-solid fa-calendar-day me-1"></i> 이번달
+            </button>
+            <button class="btn btn-outline-primary btn-sm" type="button" @click="setLast3Months">
+              <i class="fa-solid fa-calendar-week me-1"></i> 최근 3개월
+            </button>
+            <button class="btn btn-outline-primary btn-sm" type="button" @click="clearRange">
+              <i class="fa-solid fa-infinity me-1"></i> 전체
+            </button>
+          </div>
+        </div>
+      </div>
+
+      <div class="small text-muted mt-2">
+        <i class="fa-solid fa-filter me-1"></i>
+        기간 필터가 적용된 데이터로 KPI/차트가 갱신됩니다.
+      </div>
+    </div>
+  </div>
+
   <div class="row g-3 mb-3">
     <div class="col-12 col-md-4">
       <div class="card border-0 shadow-sm h-100">
@@ -60,14 +98,14 @@
     </div>
   </div>
 
-  <div v-if="entries.length === 0" class="card border-0 shadow-sm">
+  <div v-if="filteredEntries.length === 0" class="card border-0 shadow-sm">
     <div class="card-body p-4 p-md-5 text-center">
       <div class="display-6 mb-2">
         <i class="fa-solid fa-face-smile-wink text-primary"></i>
       </div>
       <div class="fw-semibold mb-1">아직 데이터가 없어요</div>
       <div class="text-muted small mb-3">
-        가계부 기록을 추가하면 차트가 자동으로 생성됩니다.
+        선택한 기간에 해당하는 기록이 없습니다. 기간을 바꾸거나 가계부 기록을 추가해보세요.
       </div>
       <div class="d-flex justify-content-center gap-2">
         <RouterLink class="btn btn-primary" :to="{ name: 'ledger' }">
@@ -139,7 +177,7 @@
 </template>
 
 <script setup>
-import { computed, nextTick, onBeforeUnmount, onMounted, ref, watch } from 'vue'
+import { computed, nextTick, onBeforeUnmount, onMounted, reactive, ref, watch } from 'vue'
 import { RouterLink } from 'vue-router'
 import Chart from 'chart.js/auto'
 import LoadingOverlay from '../components/ui/LoadingOverlay.vue'
@@ -147,6 +185,11 @@ import { getEntries, groupByMonth, groupExpenseByCategory, seedIfEmpty, summariz
 
 const busy = ref(false)
 const entries = ref([])
+
+const filters = reactive({
+  from: '',
+  to: ''
+})
 
 const barCanvas = ref(null)
 const doughnutCanvas = ref(null)
@@ -156,10 +199,18 @@ let barChart = null
 let doughnutChart = null
 let lineChart = null
 
-const summary = computed(() => summarize(entries.value))
+const filteredEntries = computed(() => {
+  return entries.value.filter((e) => {
+    if (filters.from && e.date < filters.from) return false
+    if (filters.to && e.date > filters.to) return false
+    return true
+  })
+})
+
+const summary = computed(() => summarize(filteredEntries.value))
 
 const monthsLabel = computed(() => {
-  const grouped = groupByMonth(entries.value)
+  const grouped = groupByMonth(filteredEntries.value)
   if (grouped.length === 0) return '—'
   if (grouped.length === 1) return grouped[0].month
   return `${grouped[0].month} ~ ${grouped[grouped.length - 1].month}`
@@ -197,15 +248,15 @@ function palette() {
 
 async function renderCharts() {
   destroyCharts()
-  if (entries.value.length === 0) return
+  if (filteredEntries.value.length === 0) return
   await nextTick()
 
-  const monthly = groupByMonth(entries.value)
+  const monthly = groupByMonth(filteredEntries.value)
   const labels = monthly.map((m) => m.month)
   const monthlyExpense = monthly.map((m) => m.expense)
   const monthlyIncome = monthly.map((m) => m.income)
 
-  const byCat = groupExpenseByCategory(entries.value).slice(0, 8)
+  const byCat = groupExpenseByCategory(filteredEntries.value).slice(0, 8)
   const catLabels = byCat.map((c) => c.category)
   const catTotals = byCat.map((c) => c.total)
 
@@ -337,8 +388,35 @@ async function seedDemo() {
   }
 }
 
+function pad2(n) {
+  return String(n).padStart(2, '0')
+}
+
+function setThisMonth() {
+  const now = new Date()
+  const y = now.getFullYear()
+  const m = now.getMonth()
+  const from = new Date(y, m, 1)
+  const to = new Date(y, m + 1, 0)
+  filters.from = `${from.getFullYear()}-${pad2(from.getMonth() + 1)}-${pad2(from.getDate())}`
+  filters.to = `${to.getFullYear()}-${pad2(to.getMonth() + 1)}-${pad2(to.getDate())}`
+}
+
+function setLast3Months() {
+  const now = new Date()
+  const to = new Date(now.getFullYear(), now.getMonth() + 1, 0)
+  const from = new Date(now.getFullYear(), now.getMonth() - 2, 1)
+  filters.from = `${from.getFullYear()}-${pad2(from.getMonth() + 1)}-${pad2(from.getDate())}`
+  filters.to = `${to.getFullYear()}-${pad2(to.getMonth() + 1)}-${pad2(to.getDate())}`
+}
+
+function clearRange() {
+  filters.from = ''
+  filters.to = ''
+}
+
 watch(
-  entries,
+  [entries, () => filters.from, () => filters.to],
   async () => {
     busy.value = true
     try {
@@ -353,6 +431,7 @@ watch(
 
 onMounted(async () => {
   reload()
+  setThisMonth()
   await renderCharts()
 })
 
