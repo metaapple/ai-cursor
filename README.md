@@ -12,6 +12,7 @@
 <img width="478" height="525" alt="252" src="https://github.com/user-attachments/assets/f1879e68-a247-44c9-b153-b62ee9f51d34" />
 <img width="1966" height="1472" alt="250" src="https://github.com/user-attachments/assets/32765462-5329-4401-b2f2-ba2c60005ce7" />
 
+<br><br><br><br><br><br><br>
 
 Vue 3 + Composition API + Vue Router + Bootstrap 기반의 **가계부 데모 SPA**입니다.  
 기본 테마 색상은 **오렌지**이며, 제출/전환 시 **로딩 스피너 오버레이**가 표시됩니다.
